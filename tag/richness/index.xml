@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>richness | Adrián Villastrigo</title>
+    <link>/tag/richness/</link>
+      <atom:link href="/tag/richness/index.xml" rel="self" type="application/rss+xml" />
+    <description>richness</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2017 15:24:44 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>richness</title>
+      <link>/tag/richness/</link>
+    </image>
+    
+    <item>
+      <title>Response of a littoral macroinvertebrate assemblage to a persistent hydrological drought in a permanent mountain shallow lake from northwestern Spain</title>
+      <link>/publication/response-of-a-littoral-macroinvertebrate-assemblage-to-a-persistent-hydrological-drought/</link>
+      <pubDate>Mon, 04 Sep 2017 15:24:44 +0200</pubDate>
+      <guid>/publication/response-of-a-littoral-macroinvertebrate-assemblage-to-a-persistent-hydrological-drought/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

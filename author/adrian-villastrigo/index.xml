@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrián Villastrigo</title>
+    <link>/author/adrian-villastrigo/</link>
+      <atom:link href="/author/adrian-villastrigo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrián Villastrigo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/adrian-villastrigo/avatar_hu32daf56d9b0799010b7ad99a9a89f784_467389_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Adrián Villastrigo</title>
+      <link>/author/adrian-villastrigo/</link>
+    </image>
+    
+  </channel>
+</rss>

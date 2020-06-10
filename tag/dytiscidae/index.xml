@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dytiscidae | Adrián Villastrigo</title>
+    <link>/tag/dytiscidae/</link>
+      <atom:link href="/tag/dytiscidae/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dytiscidae</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Sep 2017 15:24:47 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dytiscidae</title>
+      <link>/tag/dytiscidae/</link>
+    </image>
+    
+    <item>
+      <title>A new classification of the tribe Hygrotini Portevin, 1929 (Coleoptera: Dytiscidae: Hydroporinae)</title>
+      <link>/publication/a-new-classification-of-the-tribe-hygrotini/</link>
+      <pubDate>Tue, 05 Sep 2017 15:24:47 +0200</pubDate>
+      <guid>/publication/a-new-classification-of-the-tribe-hygrotini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuticle Hydrocarbons in Saline Aquatic Beetles</title>
+      <link>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</link>
+      <pubDate>Fri, 14 Jul 2017 15:13:19 +0200</pubDate>
+      <guid>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

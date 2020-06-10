@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coleoptera | Adrián Villastrigo</title>
+    <link>/tag/coleoptera/</link>
+      <atom:link href="/tag/coleoptera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coleoptera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 15:25:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Coleoptera</title>
+      <link>/tag/coleoptera/</link>
+    </image>
+    
+    <item>
+      <title>Ochthebius (s.str.) caudatus Frivaldszky, 1883: redescription, new records, and group assignation based on molecular data</title>
+      <link>/publication/ochthebius-caudatus-redescription-new-records-and-group-assignation-based-on-molecular-data/</link>
+      <pubDate>Sun, 01 Sep 2019 15:25:00 +0200</pubDate>
+      <guid>/publication/ochthebius-caudatus-redescription-new-records-and-group-assignation-based-on-molecular-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of Micragasma J. Sahlberg, 1900 (Coleoptera: Hydraenidae) from Crete</title>
+      <link>/publication/a-new-species-of-micragasma-from-crete/</link>
+      <pubDate>Wed, 22 Nov 2017 15:24:52 +0200</pubDate>
+      <guid>/publication/a-new-species-of-micragasma-from-crete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new classification of the tribe Hygrotini Portevin, 1929 (Coleoptera: Dytiscidae: Hydroporinae)</title>
+      <link>/publication/a-new-classification-of-the-tribe-hygrotini/</link>
+      <pubDate>Tue, 05 Sep 2017 15:24:47 +0200</pubDate>
+      <guid>/publication/a-new-classification-of-the-tribe-hygrotini/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

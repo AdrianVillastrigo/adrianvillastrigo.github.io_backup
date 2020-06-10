@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. | Adrián Villastrigo</title>
+    <link>/author/m./</link>
+      <atom:link href="/author/m./index.xml" rel="self" type="application/rss+xml" />
+    <description>M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M.</title>
+      <link>/author/m./</link>
+    </image>
+    
+    <item>
+      <title>Evolution of salinity tolerance in the diving beetle tribe Hygrotini (Coleoptera, Dytiscidae)</title>
+      <link>/publication/evolution-of-salinity-tolerance-in-the-diving-beetle-tribe-hygrotini/</link>
+      <pubDate>Mon, 01 Jan 2018 15:24:55 +0200</pubDate>
+      <guid>/publication/evolution-of-salinity-tolerance-in-the-diving-beetle-tribe-hygrotini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuticle Hydrocarbons in Saline Aquatic Beetles</title>
+      <link>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</link>
+      <pubDate>Fri, 14 Jul 2017 15:13:19 +0200</pubDate>
+      <guid>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
