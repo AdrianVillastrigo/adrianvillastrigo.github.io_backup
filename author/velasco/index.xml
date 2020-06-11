@@ -5,12 +5,20 @@
     <link>/author/velasco/</link>
       <atom:link href="/author/velasco/index.xml" rel="self" type="application/rss+xml" />
     <description>Velasco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Oct 2017 15:24:50 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Sep 2018 18:33:16 +0200</lastBuildDate>
     <image>
       <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
       <title>Velasco</title>
       <link>/author/velasco/</link>
     </image>
+    
+    <item>
+      <title>Ochthebiini: a mitogenome approach to tempo and mode of salinity tolerance evolution</title>
+      <link>/talk/hennig-2018/</link>
+      <pubDate>Tue, 18 Sep 2018 18:33:16 +0200</pubDate>
+      <guid>/talk/hennig-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An updated checklist of the water beetles and bugs of Cyprus</title>

@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent Talks | Adrián Villastrigo</title>
+    <title>Conferences and seminars | Adrián Villastrigo</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2019 15:56:53 +0200</lastBuildDate>
+    <description>Conferences and seminars</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 08:39:50 +0200</lastBuildDate>
     <image>
       <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent Talks</title>
+      <title>Conferences and seminars</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Coastal rockpools and their beetles</title>
+      <link>/talk/abe-2020/</link>
+      <pubDate>Tue, 28 Jan 2020 08:39:50 +0200</pubDate>
+      <guid>/talk/abe-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Untangling extant biodiversity in Hydroporini</title>
       <link>/talk/henning-2019/</link>
       <pubDate>Wed, 29 May 2019 15:56:53 +0200</pubDate>
       <guid>/talk/henning-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ochthebiini: a mitogenome approach to tempo and mode of salinity tolerance evolution</title>
+      <link>/talk/hennig-2018/</link>
+      <pubDate>Tue, 18 Sep 2018 18:33:16 +0200</pubDate>
+      <guid>/talk/hennig-2018/</guid>
       <description></description>
     </item>
     

@@ -93,6 +93,16 @@
   </url>
   
   <url>
+    <loc>/talk/abe-2020/</loc>
+    <lastmod>2020-01-28T08:39:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-01-28T08:39:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/digest-insights-into-diatoms-diversity-patterns/</loc>
     <lastmod>2019-12-05T15:25:02+02:00</lastmod>
   </url>
@@ -208,11 +218,6 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-05-29T15:56:53+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/henning-2019/</loc>
     <lastmod>2019-05-29T15:56:53+02:00</lastmod>
   </url>
@@ -233,17 +238,32 @@
   </url>
   
   <url>
+    <loc>/author/arribas/</loc>
+    <lastmod>2018-09-18T18:33:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/millan/</loc>
+    <lastmod>2018-09-18T18:33:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/hennig-2018/</loc>
+    <lastmod>2018-09-18T18:33:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/velasco/</loc>
+    <lastmod>2018-09-18T18:33:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/australia-2018/</loc>
     <lastmod>2018-08-01T15:56:49+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/andujar/</loc>
-    <lastmod>2018-01-16T15:56:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/arribas/</loc>
     <lastmod>2018-01-16T15:56:47+02:00</lastmod>
   </url>
   
@@ -274,11 +294,6 @@
   
   <url>
     <loc>/author/manuel/</loc>
-    <lastmod>2018-01-01T15:24:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/millan/</loc>
     <lastmod>2018-01-01T15:24:55+02:00</lastmod>
   </url>
   
@@ -339,11 +354,6 @@
   
   <url>
     <loc>/author/ribera/</loc>
-    <lastmod>2017-10-07T15:24:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/velasco/</loc>
     <lastmod>2017-10-07T15:24:50+02:00</lastmod>
   </url>
   
