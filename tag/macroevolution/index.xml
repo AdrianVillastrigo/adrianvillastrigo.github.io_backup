@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macroevolution | Adrián Villastrigo</title>
+    <link>/tag/macroevolution/</link>
+      <atom:link href="/tag/macroevolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>macroevolution</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 18:21:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
+      <title>macroevolution</title>
+      <link>/tag/macroevolution/</link>
+    </image>
+    
+    <item>
+      <title>Irreversible habitat specialization does not constrain diversification in hypersaline water beetles</title>
+      <link>/publication/irreversible-habitat-specialization-ochthebius/</link>
+      <pubDate>Wed, 05 Aug 2020 18:21:00 +0200</pubDate>
+      <guid>/publication/irreversible-habitat-specialization-ochthebius/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

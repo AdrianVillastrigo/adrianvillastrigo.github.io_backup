@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jun 2020 15:24:52 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 18:21:00 +0200</lastBuildDate>
     <image>
       <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Irreversible habitat specialization does not constrain diversification in hypersaline water beetles</title>
+      <link>/publication/irreversible-habitat-specialization-ochthebius/</link>
+      <pubDate>Wed, 05 Aug 2020 18:21:00 +0200</pubDate>
+      <guid>/publication/irreversible-habitat-specialization-ochthebius/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the presence of Aphelocheirus aestivalis (Fabricius, 1794) in the Iberian Peninsula: new records with morphological and molecular data (Hemiptera: Aphelocheiridae)</title>
@@ -85,7 +93,7 @@
     </item>
     
     <item>
-      <title>Cuticle Hydrocarbons in Saline Aquatic Beetles</title>
+      <title>Cuticle hydrocarbons in saline aquatic beetles</title>
       <link>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</link>
       <pubDate>Fri, 14 Jul 2017 15:13:19 +0200</pubDate>
       <guid>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</guid>

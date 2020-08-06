@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences and seminars</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 08:39:50 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 11:10:07 +0200</lastBuildDate>
     <image>
       <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
       <title>Conferences and seminars</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Tempo and mode of the origins and evolution of salinity tolerance in aquatic Coleoptera</title>
+      <link>/talk/philippines-2020/</link>
+      <pubDate>Wed, 05 Aug 2020 11:10:07 +0200</pubDate>
+      <guid>/talk/philippines-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coastal rockpools and their beetles</title>

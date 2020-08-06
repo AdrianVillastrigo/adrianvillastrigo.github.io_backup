@@ -4,12 +4,102 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/and-ribera/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arribas/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diversification/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/habitat-transition/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/irreversibility/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/irreversible-habitat-specialization-ochthebius/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/jcr-journal/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/macroevolution/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/saline-waters/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/villastrigo/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/water-beetles/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-08-05T11:10:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/philippines-2020/</loc>
+    <lastmod>2020-08-05T11:10:07+02:00</lastmod>
   </url>
   
   <url>
@@ -23,22 +113,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/duero-basin/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/jcr-journal/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
   </url>
   
@@ -63,27 +138,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/spain/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/villastrigo/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
   </url>
   
@@ -94,11 +149,6 @@
   
   <url>
     <loc>/talk/abe-2020/</loc>
-    <lastmod>2020-01-28T08:39:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2020-01-28T08:39:50+02:00</lastmod>
   </url>
   
@@ -208,11 +258,6 @@
   </url>
   
   <url>
-    <loc>/author/and-ribera/</loc>
-    <lastmod>2019-05-29T15:56:53+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/cardoso/</loc>
     <lastmod>2019-05-29T15:56:53+02:00</lastmod>
   </url>
@@ -235,11 +280,6 @@
   <url>
     <loc>/author/valladares/</loc>
     <lastmod>2019-01-07T15:24:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/arribas/</loc>
-    <lastmod>2018-09-18T18:33:16+02:00</lastmod>
   </url>
   
   <url>
@@ -354,11 +394,6 @@
   
   <url>
     <loc>/author/ribera/</loc>
-    <lastmod>2017-10-07T15:24:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/water-beetles/</loc>
     <lastmod>2017-10-07T15:24:50+02:00</lastmod>
   </url>
   
