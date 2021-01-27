@@ -5,12 +5,20 @@
     <link>/category/jcr-journal/</link>
       <atom:link href="/category/jcr-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>JCR journal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 09:55:02 +0100</lastBuildDate>
     <image>
       <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
       <title>JCR journal</title>
       <link>/category/jcr-journal/</link>
     </image>
+    
+    <item>
+      <title>Habitat preference and diversification rates in a speciose lineage of diving beetles</title>
+      <link>/publication/habitat-preference-and-diversification-rates-in-a-speciose-lineage-of-diving-beetles/</link>
+      <pubDate>Wed, 27 Jan 2021 09:55:02 +0100</pubDate>
+      <guid>/publication/habitat-preference-and-diversification-rates-in-a-speciose-lineage-of-diving-beetles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The neglected diversity of the Ochthebius fauna from Eastern Atlantic and Central and Western Mediterranean coastal rockpools (Coleoptera, Hydraenidae)</title>
