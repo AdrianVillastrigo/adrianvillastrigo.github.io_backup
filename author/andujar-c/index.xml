@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andújar C | Adrián Villastrigo</title>
+    <link>/author/andujar-c/</link>
+      <atom:link href="/author/andujar-c/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andújar C</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2018 15:56:47 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
+      <title>Andújar C</title>
+      <link>/author/andujar-c/</link>
+    </image>
+    
+    <item>
+      <title>Mitochondrial metagenomics and the phylogeny of Ochthebiini: A new batch mitogenomes example</title>
+      <link>/talk/cisa-iv-2018/</link>
+      <pubDate>Tue, 16 Jan 2018 15:56:47 +0200</pubDate>
+      <guid>/talk/cisa-iv-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

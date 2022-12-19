@@ -1,22 +1,254 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Villastrigo A. | Adrián Villastrigo</title>
-    <link>/author/villastrigo-a./</link>
-      <atom:link href="/author/villastrigo-a./index.xml" rel="self" type="application/rss+xml" />
-    <description>Villastrigo A.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Villastrigo A | Adrián Villastrigo</title>
+    <link>/author/villastrigo-a/</link>
+      <atom:link href="/author/villastrigo-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Villastrigo A</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 13:10:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
-      <title>Villastrigo A.</title>
-      <link>/author/villastrigo-a./</link>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
+      <title>Villastrigo A</title>
+      <link>/author/villastrigo-a/</link>
     </image>
+    
+    <item>
+      <title>The Ochthebius From Western Palaearctic</title>
+      <link>/publication/the-ochthebius-from-western-palaearctic/</link>
+      <pubDate>Tue, 15 Nov 2022 13:10:00 +0100</pubDate>
+      <guid>/publication/the-ochthebius-from-western-palaearctic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crypticity within supratidal rockpools</title>
+      <link>/talk/sibecol-2022/</link>
+      <pubDate>Wed, 03 Aug 2022 11:58:40 +0200</pubDate>
+      <guid>/talk/sibecol-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel decay of vision genes in subterranean water beetles</title>
+      <link>/publication/parallel-decay-of-vision-genes/</link>
+      <pubDate>Mon, 01 Aug 2022 11:34:30 +0200</pubDate>
+      <guid>/publication/parallel-decay-of-vision-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colonization of opposite ends of an extreme altitudinal gradient</title>
+      <link>/talk/evolution-2022/</link>
+      <pubDate>Tue, 21 Jun 2022 11:58:31 +0200</pubDate>
+      <guid>/talk/evolution-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptic lineages, cryptic barriers: Historical seascapes and oceanic fronts drive genetic diversity in supralittoral rockpool beetles (Coleoptera: Hydraenidae)</title>
+      <link>/publication/cryptic-lineages-cryptic-barriers/</link>
+      <pubDate>Thu, 12 May 2022 11:34:03 +0200</pubDate>
+      <guid>/publication/cryptic-lineages-cryptic-barriers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two new high Andean species of Liodessus diving beetles from Venezuela (Coleoptera, Dytiscidae, Bidessini)</title>
+      <link>/publication/two-new-andean-species/</link>
+      <pubDate>Tue, 10 May 2022 11:33:44 +0200</pubDate>
+      <guid>/publication/two-new-andean-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The complete mitochondrial genomes of Notiophilus quadripunctatus Dejean, 1826 and Omophron limbatum (Fabricius, 1777): New insights into the mitogenome phylogeny of the Carabidae (Insecta, Coleoptera)</title>
+      <link>/publication/complete-mitochondrial-genomes-of-notiophilus/</link>
+      <pubDate>Wed, 05 Jan 2022 11:33:09 +0200</pubDate>
+      <guid>/publication/complete-mitochondrial-genomes-of-notiophilus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Habitat preference and diversification rates in a speciose lineage of diving beetles</title>
+      <link>/publication/habitat-preference-and-diversification-rates-in-a-speciose-lineage-of-diving-beetles/</link>
+      <pubDate>Wed, 27 Jan 2021 09:55:02 +0100</pubDate>
+      <guid>/publication/habitat-preference-and-diversification-rates-in-a-speciose-lineage-of-diving-beetles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neglected diversity of the Ochthebius fauna from Eastern Atlantic and Central and Western Mediterranean coastal rockpools (Coleoptera, Hydraenidae)</title>
+      <link>/publication/the-neglected-diversity-of-the-ochthebius-fauna/</link>
+      <pubDate>Thu, 01 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>/publication/the-neglected-diversity-of-the-ochthebius-fauna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irreversible habitat specialization does not constrain diversification in hypersaline water beetles</title>
+      <link>/publication/irreversible-habitat-specialization-ochthebius/</link>
+      <pubDate>Wed, 05 Aug 2020 18:21:00 +0200</pubDate>
+      <guid>/publication/irreversible-habitat-specialization-ochthebius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempo and mode of the origins and evolution of salinity tolerance in aquatic Coleoptera</title>
+      <link>/talk/philippines-2020/</link>
+      <pubDate>Wed, 05 Aug 2020 11:10:07 +0200</pubDate>
+      <guid>/talk/philippines-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the presence of Aphelocheirus aestivalis (Fabricius, 1794) in the Iberian Peninsula: new records with morphological and molecular data (Hemiptera: Aphelocheiridae)</title>
+      <link>/publication/on-the-presence-of-aphelocheirus-aestivalis/</link>
+      <pubDate>Sun, 07 Jun 2020 15:24:52 +0200</pubDate>
+      <guid>/publication/on-the-presence-of-aphelocheirus-aestivalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coastal rockpools and their beetles</title>
+      <link>/talk/abe-2020/</link>
+      <pubDate>Tue, 28 Jan 2020 08:39:50 +0200</pubDate>
+      <guid>/talk/abe-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digest: Insights into diatoms diversity patterns</title>
+      <link>/publication/digest-insights-into-diatoms-diversity-patterns/</link>
+      <pubDate>Thu, 05 Dec 2019 15:25:02 +0200</pubDate>
+      <guid>/publication/digest-insights-into-diatoms-diversity-patterns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ochthebius (s.str.) caudatus Frivaldszky, 1883: redescription, new records, and group assignation based on molecular data</title>
       <link>/publication/ochthebius-caudatus-redescription-new-records-and-group-assignation-based-on-molecular-data/</link>
       <pubDate>Sun, 01 Sep 2019 15:25:00 +0200</pubDate>
       <guid>/publication/ochthebius-caudatus-redescription-new-records-and-group-assignation-based-on-molecular-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling extant biodiversity in Hydroporini</title>
+      <link>/talk/henning-2019/</link>
+      <pubDate>Wed, 29 May 2019 15:56:53 +0200</pubDate>
+      <guid>/talk/henning-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A molecular phylogeny of the tribe Ochthebiini (Coleoptera, Hydraenidae, Ochthebiinae)</title>
+      <link>/publication/a-molecular-phylogeny-of-the-tribe-ochthebiini/</link>
+      <pubDate>Mon, 07 Jan 2019 15:24:57 +0200</pubDate>
+      <guid>/publication/a-molecular-phylogeny-of-the-tribe-ochthebiini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ochthebiini: a mitogenome approach to tempo and mode of salinity tolerance evolution</title>
+      <link>/talk/hennig-2018/</link>
+      <pubDate>Tue, 18 Sep 2018 18:33:16 +0200</pubDate>
+      <guid>/talk/hennig-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From deserts to tropical forest - Short Stay</title>
+      <link>/talk/australia-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 15:56:49 +0200</pubDate>
+      <guid>/talk/australia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial metagenomics and the phylogeny of Ochthebiini: A new batch mitogenomes example</title>
+      <link>/talk/cisa-iv-2018/</link>
+      <pubDate>Tue, 16 Jan 2018 15:56:47 +0200</pubDate>
+      <guid>/talk/cisa-iv-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of salinity tolerance in the diving beetle tribe Hygrotini (Coleoptera, Dytiscidae)</title>
+      <link>/publication/evolution-of-salinity-tolerance-in-the-diving-beetle-tribe-hygrotini/</link>
+      <pubDate>Mon, 01 Jan 2018 15:24:55 +0200</pubDate>
+      <guid>/publication/evolution-of-salinity-tolerance-in-the-diving-beetle-tribe-hygrotini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of Micragasma J. Sahlberg, 1900 (Coleoptera: Hydraenidae) from Crete</title>
+      <link>/publication/a-new-species-of-micragasma-from-crete/</link>
+      <pubDate>Wed, 22 Nov 2017 15:24:52 +0200</pubDate>
+      <guid>/publication/a-new-species-of-micragasma-from-crete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An updated checklist of the water beetles and bugs of Cyprus</title>
+      <link>/publication/an-updated-checklist-of-the-water-beetles-and-bugs-of-cyprus/</link>
+      <pubDate>Sat, 07 Oct 2017 15:24:50 +0200</pubDate>
+      <guid>/publication/an-updated-checklist-of-the-water-beetles-and-bugs-of-cyprus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroevolutionary consequences of habitat transitions</title>
+      <link>/talk/abe-meetings-2017/</link>
+      <pubDate>Tue, 03 Oct 2017 15:56:45 +0200</pubDate>
+      <guid>/talk/abe-meetings-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new classification of the tribe Hygrotini Portevin, 1929 (Coleoptera: Dytiscidae: Hydroporinae)</title>
+      <link>/publication/a-new-classification-of-the-tribe-hygrotini/</link>
+      <pubDate>Tue, 05 Sep 2017 15:24:47 +0200</pubDate>
+      <guid>/publication/a-new-classification-of-the-tribe-hygrotini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response of a littoral macroinvertebrate assemblage to a persistent hydrological drought in a permanent mountain shallow lake from northwestern Spain</title>
+      <link>/publication/response-of-a-littoral-macroinvertebrate-assemblage-to-a-persistent-hydrological-drought/</link>
+      <pubDate>Mon, 04 Sep 2017 15:24:44 +0200</pubDate>
+      <guid>/publication/response-of-a-littoral-macroinvertebrate-assemblage-to-a-persistent-hydrological-drought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuticle hydrocarbons in saline aquatic beetles</title>
+      <link>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</link>
+      <pubDate>Fri, 14 Jul 2017 15:13:19 +0200</pubDate>
+      <guid>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroevolution and habitat transitions</title>
+      <link>/talk/tenerife-seminar/</link>
+      <pubDate>Fri, 07 Jul 2017 15:56:42 +0200</pubDate>
+      <guid>/talk/tenerife-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroevolutionary consequences of habitat transitions in aquatic Coleoptera</title>
+      <link>/talk/empseb22/</link>
+      <pubDate>Sun, 11 Sep 2016 15:56:38 +0200</pubDate>
+      <guid>/talk/empseb22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efectos ecológicos de la sequía sobre la comunidad de macroinvertebrados bentónicos en ecosistemas lacustres. Caso de estudio: Lago de La Baña</title>
+      <link>/talk/murcia-seminar-2015/</link>
+      <pubDate>Thu, 22 Oct 2015 15:56:30 +0200</pubDate>
+      <guid>/talk/murcia-seminar-2015/</guid>
       <description></description>
     </item>
     

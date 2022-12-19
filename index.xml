@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrián Villastrigo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 13:10:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
       <title>Adrián Villastrigo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>The Ochthebius From Western Palaearctic</title>
+      <link>/publication/the-ochthebius-from-western-palaearctic/</link>
+      <pubDate>Tue, 15 Nov 2022 13:10:00 +0100</pubDate>
+      <guid>/publication/the-ochthebius-from-western-palaearctic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crypticity within supratidal rockpools</title>
@@ -154,24 +162,6 @@
       <pubDate>Wed, 01 Aug 2018 15:56:49 +0200</pubDate>
       <guid>/talk/australia-2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
     </item>
     
     <item>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valladares LF | Adrián Villastrigo</title>
+    <link>/author/valladares-lf/</link>
+      <atom:link href="/author/valladares-lf/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valladares LF</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jun 2020 15:24:52 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
+      <title>Valladares LF</title>
+      <link>/author/valladares-lf/</link>
+    </image>
+    
+    <item>
+      <title>On the presence of Aphelocheirus aestivalis (Fabricius, 1794) in the Iberian Peninsula: new records with morphological and molecular data (Hemiptera: Aphelocheiridae)</title>
+      <link>/publication/on-the-presence-of-aphelocheirus-aestivalis/</link>
+      <pubDate>Sun, 07 Jun 2020 15:24:52 +0200</pubDate>
+      <guid>/publication/on-the-presence-of-aphelocheirus-aestivalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A molecular phylogeny of the tribe Ochthebiini (Coleoptera, Hydraenidae, Ochthebiinae)</title>
+      <link>/publication/a-molecular-phylogeny-of-the-tribe-ochthebiini/</link>
+      <pubDate>Mon, 07 Jan 2019 15:24:57 +0200</pubDate>
+      <guid>/publication/a-molecular-phylogeny-of-the-tribe-ochthebiini/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

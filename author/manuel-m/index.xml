@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel M | Adrián Villastrigo</title>
+    <link>/author/manuel-m/</link>
+      <atom:link href="/author/manuel-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel M</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 15:24:55 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
+      <title>Manuel M</title>
+      <link>/author/manuel-m/</link>
+    </image>
+    
+    <item>
+      <title>Evolution of salinity tolerance in the diving beetle tribe Hygrotini (Coleoptera, Dytiscidae)</title>
+      <link>/publication/evolution-of-salinity-tolerance-in-the-diving-beetle-tribe-hygrotini/</link>
+      <pubDate>Mon, 01 Jan 2018 15:24:55 +0200</pubDate>
+      <guid>/publication/evolution-of-salinity-tolerance-in-the-diving-beetle-tribe-hygrotini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new classification of the tribe Hygrotini Portevin, 1929 (Coleoptera: Dytiscidae: Hydroporinae)</title>
+      <link>/publication/a-new-classification-of-the-tribe-hygrotini/</link>
+      <pubDate>Tue, 05 Sep 2017 15:24:47 +0200</pubDate>
+      <guid>/publication/a-new-classification-of-the-tribe-hygrotini/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

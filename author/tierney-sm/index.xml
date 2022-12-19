@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tierney SM | Adrián Villastrigo</title>
+    <link>/author/tierney-sm/</link>
+      <atom:link href="/author/tierney-sm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tierney SM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 11:34:30 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
+      <title>Tierney SM</title>
+      <link>/author/tierney-sm/</link>
+    </image>
+    
+    <item>
+      <title>Parallel decay of vision genes in subterranean water beetles</title>
+      <link>/publication/parallel-decay-of-vision-genes/</link>
+      <pubDate>Mon, 01 Aug 2022 11:34:30 +0200</pubDate>
+      <guid>/publication/parallel-decay-of-vision-genes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

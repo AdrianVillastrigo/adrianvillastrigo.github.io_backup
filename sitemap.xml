@@ -1,1058 +1,507 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/author/a./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/abellan/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bilton/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/sibecol-2022/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.t./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/i./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/millan/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/p./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/r./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ribera/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/velasco/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/villastrigo/</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/villastrigo.-a./</loc>
-    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
-  </url>
-  
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.d./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/austin/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/barbara/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/beasley-hall/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bertozzi/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bradford/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/c./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/checklist/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/coastal-habitats/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/author/hernando-c/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/category/jcr-journal/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/author/millan-a/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/ochthebius/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication/the-ochthebius-from-western-palaearctic/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/author/villastrigo-a/</loc>
+    <lastmod>2022-11-15T13:10:00+01:00</lastmod>
+  </url><url>
+    <loc>/author/abellan-p/</loc>
+    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
+  </url><url>
+    <loc>/author/bilton-dt/</loc>
+    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
+  </url><url>
+    <loc>/talk/sibecol-2022/</loc>
+    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
+  </url><url>
+    <loc>/author/ribera-i/</loc>
+    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
+  </url><url>
+    <loc>/author/velasco-j/</loc>
+    <lastmod>2022-08-03T11:58:40+02:00</lastmod>
+  </url><url>
+    <loc>/author/austin-ad/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cooper/</loc>
+  </url><url>
+    <loc>/author/beasley-hall-pg/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.n./</loc>
+  </url><url>
+    <loc>/author/bertozzi-t/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/bradford-tm/</loc>
+    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
+  </url><url>
+    <loc>/author/cooper-sjb/</loc>
+    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
+  </url><url>
     <loc>/tag/dytiscidae/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/e./</loc>
+  </url><url>
+    <loc>/author/fagan-jeffries-ep/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/e.p./</loc>
+  </url><url>
+    <loc>/author/humphreys-wf/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/f./</loc>
+  </url><url>
+    <loc>/author/hyde-j/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/fagan-jeffries/</loc>
+  </url><url>
+    <loc>/author/langille-b/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/h./</loc>
+  </url><url>
+    <loc>/author/leijs-r/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/humphreys/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/hyde/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/jcr-journal/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/k.m./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/leijs/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/neutral-evolution-theory/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/p.g./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/parallel-decay-of-vision-genes/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/pseudogenisation/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/regressive-evolution/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/richardson/</loc>
+  </url><url>
+    <loc>/author/richardson-m/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s./</loc>
+  </url><url>
+    <loc>/author/saint-km/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.j.b./</loc>
+  </url><url>
+    <loc>/author/stringer-dn/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/saint/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/simon-m./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/stringer/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/subterranean-beetles/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/t.m./</loc>
+  </url><url>
+    <loc>/author/tierney-sm/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/terry/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tierney/</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/vision-genes/</loc>
     <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/w./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/w.f./</loc>
-    <lastmod>2022-08-01T11:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/balke/</loc>
+  </url><url>
+    <loc>/author/balke-m/</loc>
     <lastmod>2022-06-21T11:58:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/evolution-2022/</loc>
     <lastmod>2022-06-21T11:58:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/beetles/</loc>
     <lastmod>2022-05-12T11:34:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cryptic-lineages-cryptic-barriers/</loc>
     <lastmod>2022-05-12T11:34:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cryptic-species/</loc>
     <lastmod>2022-05-12T11:34:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/dispersal/</loc>
     <lastmod>2022-05-12T11:34:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/mediterranean-rocky-shores/</loc>
     <lastmod>2022-05-12T11:34:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/ochthebius/</loc>
-    <lastmod>2022-05-12T11:34:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/phylogeography/</loc>
     <lastmod>2022-05-12T11:34:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.l./</loc>
+  </url><url>
+    <loc>/author/garcia-m/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/garcia/</loc>
+  </url><url>
+    <loc>/author/hendrich-l/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/hendrich/</loc>
-    <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/liodessus/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/merida/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/new-species/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/two-new-andean-species/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/venezuela/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/viloria/</loc>
+  </url><url>
+    <loc>/author/viloria-al/</loc>
     <lastmod>2022-05-10T11:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/adephaga/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/diester/</loc>
+  </url><url>
+    <loc>/author/diester-f/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/fabian/</loc>
-    <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/geadephaga/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/gene-rearrangement-genome-skimming/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/genomics/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/high-throughput-sequencing/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/illumina/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m.j./</loc>
+  </url><url>
+    <loc>/author/raupach-mj/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael/</loc>
-    <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/raupach/</loc>
-    <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/complete-mitochondrial-genomes-of-notiophilus/</loc>
     <lastmod>2022-01-05T11:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/and-ribera/</loc>
-    <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/diversification/</loc>
-    <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/diversification-rates/</loc>
     <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/diving-beetles/</loc>
     <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/habitat-preference/</loc>
     <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/habitat-preference-and-diversification-rates-in-a-speciose-lineage-of-diving-beetles/</loc>
     <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/habitat-transition/</loc>
-    <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/habitat-transitions/</loc>
     <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hydroporini/</loc>
     <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/macroevolution/</loc>
     <lastmod>2021-01-27T09:55:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cabo-verde/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/coastal-habitats/</loc>
-    <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cobalius/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/convergence/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cryptic-lineages/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/hernando/</loc>
-    <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/macaronesia/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/malta/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/morocco/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/rockpools/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/the-neglected-diversity-of-the-ochthebius-fauna/</loc>
     <lastmod>2020-10-01T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/arribas/</loc>
+  </url><url>
+    <loc>/author/arribas-p/</loc>
     <lastmod>2020-08-05T18:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/tag/diversification/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/habitat-transition/</loc>
+    <lastmod>2020-08-05T18:21:00+02:00</lastmod>
+  </url><url>
     <loc>/tag/irreversibility/</loc>
     <lastmod>2020-08-05T18:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/irreversible-habitat-specialization-ochthebius/</loc>
     <lastmod>2020-08-05T18:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/saline-waters/</loc>
     <lastmod>2020-08-05T18:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/water-beetles/</loc>
     <lastmod>2020-08-05T18:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/philippines-2020/</loc>
     <lastmod>2020-08-05T11:10:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/and-valladares/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/aphelocheirus/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/duero-basin/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l.f./</loc>
+  </url><url>
+    <loc>/author/miguelez-d/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/miguelez/</loc>
-    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/morphology/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/on-the-presence-of-aphelocheirus-aestivalis/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/phylogeny/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/spain/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/valladares-lf/</loc>
+    <lastmod>2020-06-07T15:24:52+02:00</lastmod>
+  </url><url>
     <loc>/tag/water-bug/</loc>
     <lastmod>2020-06-07T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/abe-2020/</loc>
     <lastmod>2020-01-28T08:39:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/digest-insights-into-diatoms-diversity-patterns/</loc>
     <lastmod>2019-12-05T15:25:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/category/evolution-digest/</loc>
     <lastmod>2019-12-05T15:25:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/and-dorfer/</loc>
-    <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/carpathians/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/coleoptera/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/croatia/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/delgado/</loc>
+  </url><url>
+    <loc>/author/delgado-ja/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/dna-sequencing/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/dorfer-w/</loc>
+    <lastmod>2019-09-01T15:25:00+02:00</lastmod>
+  </url><url>
     <loc>/tag/hungary/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hydraenidae/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/inland-saline-habitats/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j.a./</loc>
+  </url><url>
+    <loc>/author/jach-ma/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jach/</loc>
-    <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m.-a./</loc>
-    <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/category/non-indexed-journal/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ochthebius-caudatus-redescription-new-records-and-group-assignation-based-on-molecular-data/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ochthebius-caudatus/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ochthebius-marinus-group/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/poland/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/romania/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/salinity/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/twardy/</loc>
+  </url><url>
+    <loc>/author/twardy-d/</loc>
     <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/villastrigo-a./</loc>
-    <lastmod>2019-09-01T15:25:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cardoso/</loc>
+  </url><url>
+    <loc>/author/cardoso-a/</loc>
     <lastmod>2019-05-29T15:56:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/henning-2019/</loc>
     <lastmod>2019-05-29T15:56:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/a-molecular-phylogeny-of-the-tribe-ochthebiini/</loc>
     <lastmod>2019-01-07T15:24:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l.-f./</loc>
-    <lastmod>2019-01-07T15:24:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/valladares/</loc>
-    <lastmod>2019-01-07T15:24:57+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/hennig-2018/</loc>
     <lastmod>2018-09-18T18:33:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/australia-2018/</loc>
     <lastmod>2018-08-01T15:56:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andujar/</loc>
+  </url><url>
+    <loc>/author/andujar-c/</loc>
     <lastmod>2018-01-16T15:56:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/cisa-iv-2018/</loc>
     <lastmod>2018-01-16T15:56:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/aridification/</loc>
     <lastmod>2018-01-01T15:24:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/evolution-of-salinity-tolerance-in-the-diving-beetle-tribe-hygrotini/</loc>
     <lastmod>2018-01-01T15:24:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/fery/</loc>
+  </url><url>
+    <loc>/author/fery-h/</loc>
     <lastmod>2018-01-01T15:24:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hygrotini/</loc>
     <lastmod>2018-01-01T15:24:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/manuel/</loc>
+  </url><url>
+    <loc>/author/manuel-m/</loc>
     <lastmod>2018-01-01T15:24:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/salinity-tolerance/</loc>
     <lastmod>2018-01-01T15:24:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/a-new-species-of-micragasma-from-crete/</loc>
     <lastmod>2017-11-22T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/crete/</loc>
     <lastmod>2017-11-22T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/micragasma/</loc>
     <lastmod>2017-11-22T15:24:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/an-updated-checklist-of-the-water-beetles-and-bugs-of-cyprus/</loc>
     <lastmod>2017-10-07T15:24:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/and-millan/</loc>
-    <lastmod>2017-10-07T15:24:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.-t./</loc>
-    <lastmod>2017-10-07T15:24:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/category/newletter/</loc>
     <lastmod>2017-10-07T15:24:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/water-bugs/</loc>
     <lastmod>2017-10-07T15:24:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/abe-meetings-2017/</loc>
     <lastmod>2017-10-03T15:56:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/~villastrigo/</loc>
-    <lastmod>2017-10-03T15:56:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/a-new-classification-of-the-tribe-hygrotini/</loc>
     <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/and-fery/</loc>
-    <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andres/</loc>
-    <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hydroporinae/</loc>
     <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/new-classification/</loc>
     <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/new-combinations/</loc>
     <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/new-genus/</loc>
     <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/new-subgenera/</loc>
     <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/new-synonyms/</loc>
     <lastmod>2017-09-05T15:24:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/and-garcia-criado/</loc>
+  </url><url>
+    <loc>/author/garcia-criado-f/</loc>
     <lastmod>2017-09-04T15:24:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/global-chance/</loc>
     <lastmod>2017-09-04T15:24:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/littoral-macroinvertebrates/</loc>
     <lastmod>2017-09-04T15:24:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/mountain-lakes/</loc>
     <lastmod>2017-09-04T15:24:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/response-of-a-littoral-macroinvertebrate-assemblage-to-a-persistent-hydrological-drought/</loc>
     <lastmod>2017-09-04T15:24:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/richness/</loc>
     <lastmod>2017-09-04T15:24:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/summer-drought/</loc>
     <lastmod>2017-09-04T15:24:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/and-velasco/</loc>
+  </url><url>
+    <loc>/author/botella-cruz-m/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/botella-cruz/</loc>
-    <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/chc-profile/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cuticle-hydrocarbons-in-saline-aquatic-beetles/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/desiccation-resistance/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hydrophilidae/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lopez-gallego/</loc>
+  </url><url>
+    <loc>/author/lopez-gallego-e/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/pallares/</loc>
+  </url><url>
+    <loc>/author/pallares-s/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/waterproofing-cuticle/</loc>
     <lastmod>2017-07-14T15:13:19+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/tenerife-seminar/</loc>
     <lastmod>2017-07-07T15:56:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/empseb22/</loc>
     <lastmod>2016-09-11T15:56:38+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/murcia-seminar-2015/</loc>
     <lastmod>2015-10-22T15:56:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/adrian-villastrigo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
   </url>
-  
 </urlset>
