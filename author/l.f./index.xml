@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L.F. | Adrián Villastrigo</title>
+    <link>/author/l.f./</link>
+      <atom:link href="/author/l.f./index.xml" rel="self" type="application/rss+xml" />
+    <description>L.F.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jun 2020 15:24:52 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
+      <title>L.F.</title>
+      <link>/author/l.f./</link>
+    </image>
+    
+    <item>
+      <title>On the presence of Aphelocheirus aestivalis (Fabricius, 1794) in the Iberian Peninsula: new records with morphological and molecular data (Hemiptera: Aphelocheiridae)</title>
+      <link>/publication/on-the-presence-of-aphelocheirus-aestivalis/</link>
+      <pubDate>Sun, 07 Jun 2020 15:24:52 +0200</pubDate>
+      <guid>/publication/on-the-presence-of-aphelocheirus-aestivalis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. | Adrián Villastrigo</title>
+    <link>/author/c./</link>
+      <atom:link href="/author/c./index.xml" rel="self" type="application/rss+xml" />
+    <description>C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 11:34:30 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
+      <title>C.</title>
+      <link>/author/c./</link>
+    </image>
+    
+    <item>
+      <title>The neglected diversity of the Ochthebius fauna from Eastern Atlantic and Central and Western Mediterranean coastal rockpools (Coleoptera, Hydraenidae)</title>
+      <link>/publication/the-neglected-diversity-of-the-ochthebius-fauna/</link>
+      <pubDate>Thu, 01 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>/publication/the-neglected-diversity-of-the-ochthebius-fauna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial metagenomics and the phylogeny of Ochthebiini: A new batch mitogenomes example</title>
+      <link>/talk/cisa-iv-2018/</link>
+      <pubDate>Tue, 16 Jan 2018 15:56:47 +0200</pubDate>
+      <guid>/talk/cisa-iv-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of Micragasma J. Sahlberg, 1900 (Coleoptera: Hydraenidae) from Crete</title>
+      <link>/publication/a-new-species-of-micragasma-from-crete/</link>
+      <pubDate>Wed, 22 Nov 2017 15:24:52 +0200</pubDate>
+      <guid>/publication/a-new-species-of-micragasma-from-crete/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

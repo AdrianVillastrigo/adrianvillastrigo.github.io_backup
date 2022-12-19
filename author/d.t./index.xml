@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.T. | Adrián Villastrigo</title>
+    <link>/author/d.t./</link>
+      <atom:link href="/author/d.t./index.xml" rel="self" type="application/rss+xml" />
+    <description>D.T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 11:58:40 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
+      <title>D.T.</title>
+      <link>/author/d.t./</link>
+    </image>
+    
+    <item>
+      <title>Crypticity within supratidal rockpools</title>
+      <link>/talk/sibecol-2022/</link>
+      <pubDate>Wed, 03 Aug 2022 11:58:40 +0200</pubDate>
+      <guid>/talk/sibecol-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptic lineages, cryptic barriers: Historical seascapes and oceanic fronts drive genetic diversity in supralittoral rockpool beetles (Coleoptera: Hydraenidae)</title>
+      <link>/publication/cryptic-lineages-cryptic-barriers/</link>
+      <pubDate>Thu, 12 May 2022 11:34:03 +0200</pubDate>
+      <guid>/publication/cryptic-lineages-cryptic-barriers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two new high Andean species of Liodessus diving beetles from Venezuela (Coleoptera, Dytiscidae, Bidessini)</title>
+      <link>/publication/two-new-andean-species/</link>
+      <pubDate>Tue, 10 May 2022 11:33:44 +0200</pubDate>
+      <guid>/publication/two-new-andean-species/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

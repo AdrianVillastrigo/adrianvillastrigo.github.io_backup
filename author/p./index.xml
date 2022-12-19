@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. | Adrián Villastrigo</title>
+    <link>/author/p./</link>
+      <atom:link href="/author/p./index.xml" rel="self" type="application/rss+xml" />
+    <description>P.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 11:58:40 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_2.png</url>
+      <title>P.</title>
+      <link>/author/p./</link>
+    </image>
+    
+    <item>
+      <title>Crypticity within supratidal rockpools</title>
+      <link>/talk/sibecol-2022/</link>
+      <pubDate>Wed, 03 Aug 2022 11:58:40 +0200</pubDate>
+      <guid>/talk/sibecol-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptic lineages, cryptic barriers: Historical seascapes and oceanic fronts drive genetic diversity in supralittoral rockpool beetles (Coleoptera: Hydraenidae)</title>
+      <link>/publication/cryptic-lineages-cryptic-barriers/</link>
+      <pubDate>Thu, 12 May 2022 11:34:03 +0200</pubDate>
+      <guid>/publication/cryptic-lineages-cryptic-barriers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Habitat preference and diversification rates in a speciose lineage of diving beetles</title>
+      <link>/publication/habitat-preference-and-diversification-rates-in-a-speciose-lineage-of-diving-beetles/</link>
+      <pubDate>Wed, 27 Jan 2021 09:55:02 +0100</pubDate>
+      <guid>/publication/habitat-preference-and-diversification-rates-in-a-speciose-lineage-of-diving-beetles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irreversible habitat specialization does not constrain diversification in hypersaline water beetles</title>
+      <link>/publication/irreversible-habitat-specialization-ochthebius/</link>
+      <pubDate>Wed, 05 Aug 2020 18:21:00 +0200</pubDate>
+      <guid>/publication/irreversible-habitat-specialization-ochthebius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling extant biodiversity in Hydroporini</title>
+      <link>/talk/henning-2019/</link>
+      <pubDate>Wed, 29 May 2019 15:56:53 +0200</pubDate>
+      <guid>/talk/henning-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ochthebiini: a mitogenome approach to tempo and mode of salinity tolerance evolution</title>
+      <link>/talk/hennig-2018/</link>
+      <pubDate>Tue, 18 Sep 2018 18:33:16 +0200</pubDate>
+      <guid>/talk/hennig-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial metagenomics and the phylogeny of Ochthebiini: A new batch mitogenomes example</title>
+      <link>/talk/cisa-iv-2018/</link>
+      <pubDate>Tue, 16 Jan 2018 15:56:47 +0200</pubDate>
+      <guid>/talk/cisa-iv-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
