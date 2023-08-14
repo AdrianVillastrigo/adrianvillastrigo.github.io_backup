@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences and seminars</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 11:58:40 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Feb 2023 17:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
       <title>Conferences and seminars</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Habitat specialisation as biodiversity pumps</title>
+      <link>/talk/cyprus-2023/</link>
+      <pubDate>Wed, 08 Feb 2023 17:00:00 +0100</pubDate>
+      <guid>/talk/cyprus-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crypticity within supratidal rockpools</title>

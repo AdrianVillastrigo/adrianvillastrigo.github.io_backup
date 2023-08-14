@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paroster | Adrián Villastrigo</title>
+    <link>/tag/paroster/</link>
+      <atom:link href="/tag/paroster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paroster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 10:16:10 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
+      <title>Paroster</title>
+      <link>/tag/paroster/</link>
+    </image>
+    
+    <item>
+      <title>New Caledonia’s enigmatic terrestrial diving beetle Typhlodessus monteithi is a derived species of Paroster</title>
+      <link>/publication/new_caledonias_enigmatic_typhlodessus/</link>
+      <pubDate>Sat, 14 Jan 2023 10:16:10 +0100</pubDate>
+      <guid>/publication/new_caledonias_enigmatic_typhlodessus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

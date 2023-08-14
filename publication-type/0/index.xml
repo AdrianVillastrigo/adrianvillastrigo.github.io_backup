@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Adrián Villastrigo</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 10:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_huf6567ab245c5504fcd3d06e4ba84827d_263891_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Phylogenetic placement and description of Ngaliadessus humphreysi gen. et sp. nov. Watts and Villastrigo (Coleoptera: Dytiscidae), a subterranean diving beetle from the Ngalia Basin in central Australia</title>
+      <link>/publication/ngaliadessus_humphreysi/</link>
+      <pubDate>Tue, 09 May 2023 10:00:00 +0100</pubDate>
+      <guid>/publication/ngaliadessus_humphreysi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Caledonia’s enigmatic terrestrial diving beetle Typhlodessus monteithi is a derived species of Paroster</title>
+      <link>/publication/new_caledonias_enigmatic_typhlodessus/</link>
+      <pubDate>Sat, 14 Jan 2023 10:16:10 +0100</pubDate>
+      <guid>/publication/new_caledonias_enigmatic_typhlodessus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
